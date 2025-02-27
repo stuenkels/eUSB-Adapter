@@ -15,3 +15,9 @@ Adapts embedded USB drives to USB-A. Created to backup Juniper Switch drives but
 ![Front](/img/front_render.png)
 ## 3d Render Back
 ![Back](/img/back_render.png)
+## 3d Top
+![Top](/img/top.jpg)
+## With eUSB Drive Attached
+![Back](/img/top_with_drive.jpg)
+## Plugged into Computer
+![Back](/img/plugged_in.jpg)
